@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://nwankwovictoruzoma.netlify.app/"
+baseurl = "https://github.com/theuzomavictor/nwankwovictoruzoma"
 languageCode = "en-us"
 title = "Hugo Theme Stack Starter"
 
